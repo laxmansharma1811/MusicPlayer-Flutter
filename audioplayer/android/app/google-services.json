@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963079853788",
+    "project_id": "audioplayer-f3d44",
+    "storage_bucket": "audioplayer-f3d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963079853788:android:8519281ced0062943e0619",
+        "android_client_info": {
+          "package_name": "com.example.audioplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9CdpKseFgnWKDUymb5_BKYtd6K7hTu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
